@@ -1,13 +1,12 @@
 ## 👋 Hi, I'm Trashika S Karkera!
 
-I'm an **Information Science and Engineering student** with a strong interest in **Python, Artificial Intelligence, Machine Learning, and Web Technologies**.  
+I'm an **Information Science and Engineering student** with a strong interest in **Artificial Intelligence, Machine Learning, and Web Technologies**.  
 I enjoy learning new tools, building practical projects, and continuously improving my technical skills.
 
 ---
 
 ### 🔧 Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
